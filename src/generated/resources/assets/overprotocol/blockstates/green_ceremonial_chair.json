@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "overprotocol:block/green_ceremonial_chair",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "overprotocol:block/green_ceremonial_chair"
+    },
+    "facing=south": {
+      "model": "overprotocol:block/green_ceremonial_chair",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "overprotocol:block/green_ceremonial_chair",
+      "y": 270
+    }
+  }
+}

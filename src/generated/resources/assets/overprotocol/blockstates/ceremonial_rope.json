@@ -1,0 +1,52 @@
+{
+  "variants": {
+    "east=false,north=false,south=false,west=false": {
+      "model": "overprotocol:block/ceremonial_rope_0"
+    },
+    "east=false,north=false,south=false,west=true": {
+      "model": "overprotocol:block/ceremonial_rope_8"
+    },
+    "east=false,north=false,south=true,west=false": {
+      "model": "overprotocol:block/ceremonial_rope_4"
+    },
+    "east=false,north=false,south=true,west=true": {
+      "model": "overprotocol:block/ceremonial_rope_12"
+    },
+    "east=false,north=true,south=false,west=false": {
+      "model": "overprotocol:block/ceremonial_rope_1"
+    },
+    "east=false,north=true,south=false,west=true": {
+      "model": "overprotocol:block/ceremonial_rope_9"
+    },
+    "east=false,north=true,south=true,west=false": {
+      "model": "overprotocol:block/ceremonial_rope_5"
+    },
+    "east=false,north=true,south=true,west=true": {
+      "model": "overprotocol:block/ceremonial_rope_13"
+    },
+    "east=true,north=false,south=false,west=false": {
+      "model": "overprotocol:block/ceremonial_rope_2"
+    },
+    "east=true,north=false,south=false,west=true": {
+      "model": "overprotocol:block/ceremonial_rope_10"
+    },
+    "east=true,north=false,south=true,west=false": {
+      "model": "overprotocol:block/ceremonial_rope_6"
+    },
+    "east=true,north=false,south=true,west=true": {
+      "model": "overprotocol:block/ceremonial_rope_14"
+    },
+    "east=true,north=true,south=false,west=false": {
+      "model": "overprotocol:block/ceremonial_rope_3"
+    },
+    "east=true,north=true,south=false,west=true": {
+      "model": "overprotocol:block/ceremonial_rope_11"
+    },
+    "east=true,north=true,south=true,west=false": {
+      "model": "overprotocol:block/ceremonial_rope_7"
+    },
+    "east=true,north=true,south=true,west=true": {
+      "model": "overprotocol:block/ceremonial_rope_15"
+    }
+  }
+}

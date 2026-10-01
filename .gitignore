@@ -1,0 +1,15 @@
+.gradle/
+build/
+run/
+run-*/
+logs/
+.idea/
+.vscode/
+*.iml
+*.log
+__pycache__/
+src/generated/resources/.cache/
+.DS_Store
+Thumbs.db
+art/*.obj
+art/*.mtl

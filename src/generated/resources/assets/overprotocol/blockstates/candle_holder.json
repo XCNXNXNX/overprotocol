@@ -1,0 +1,58 @@
+{
+  "variants": {
+    "candle=0": {
+      "model": "overprotocol:block/candle_holder_0"
+    },
+    "candle=1": {
+      "model": "overprotocol:block/candle_holder_1"
+    },
+    "candle=10": {
+      "model": "overprotocol:block/candle_holder_10"
+    },
+    "candle=11": {
+      "model": "overprotocol:block/candle_holder_11"
+    },
+    "candle=12": {
+      "model": "overprotocol:block/candle_holder_12"
+    },
+    "candle=13": {
+      "model": "overprotocol:block/candle_holder_13"
+    },
+    "candle=14": {
+      "model": "overprotocol:block/candle_holder_14"
+    },
+    "candle=15": {
+      "model": "overprotocol:block/candle_holder_15"
+    },
+    "candle=16": {
+      "model": "overprotocol:block/candle_holder_16"
+    },
+    "candle=17": {
+      "model": "overprotocol:block/candle_holder_17"
+    },
+    "candle=2": {
+      "model": "overprotocol:block/candle_holder_2"
+    },
+    "candle=3": {
+      "model": "overprotocol:block/candle_holder_3"
+    },
+    "candle=4": {
+      "model": "overprotocol:block/candle_holder_4"
+    },
+    "candle=5": {
+      "model": "overprotocol:block/candle_holder_5"
+    },
+    "candle=6": {
+      "model": "overprotocol:block/candle_holder_6"
+    },
+    "candle=7": {
+      "model": "overprotocol:block/candle_holder_7"
+    },
+    "candle=8": {
+      "model": "overprotocol:block/candle_holder_8"
+    },
+    "candle=9": {
+      "model": "overprotocol:block/candle_holder_9"
+    }
+  }
+}

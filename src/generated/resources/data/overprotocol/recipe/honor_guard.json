@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "C": {
+      "item": "overprotocol:ceremonial_carpet"
+    },
+    "G": {
+      "item": "minecraft:gold_ingot"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    },
+    "W": {
+      "item": "minecraft:white_wool"
+    }
+  },
+  "pattern": [
+    " G ",
+    "WCW",
+    "CSC"
+  ],
+  "result": {
+    "count": 1,
+    "id": "overprotocol:honor_guard"
+  }
+}

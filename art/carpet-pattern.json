@@ -1,0 +1,29 @@
+{
+  "description": "Original 16px crimson woven carpet with a small symmetric gold lozenge; edges tile seamlessly.",
+  "palette": {
+    "r": "#9B2034",
+    "R": "#A82439",
+    "d": "#861C30",
+    "g": "#D6AA52",
+    "G": "#F0D28A",
+    "s": "#A77832"
+  },
+  "pixels": [
+    "rRrRrRrRrRrRrRrR",
+    "RrRrRrRrRrRrRrRr",
+    "rRrRrRrRrRrRrRrR",
+    "RrRrRrddddRrRrRr",
+    "rRrRrdsggsdrRrRr",
+    "RrRrdsgGGgsdRrRr",
+    "rRrdsgRrrRgsdrRr",
+    "RrrdgRrGGrRgdRrr",
+    "rRrdgRrGGrRgdRrR",
+    "RrRdsgRrrRgsdRrR",
+    "rRrRdsgGGgsdrRrR",
+    "RrRrRdsggsdrRrRr",
+    "rRrRrRddddrRrRrR",
+    "RrRrRrRrRrRrRrRr",
+    "rRrRrRrRrRrRrRrR",
+    "RrRrRrRrRrRrRrRr"
+  ]
+}

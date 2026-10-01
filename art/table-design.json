@@ -1,0 +1,17 @@
+{
+  "description": "Full colored tablecloth with pleated skirts only on exposed outer edges; four-way connections across all colors.",
+  "texture_size": 16,
+  "reference": "2015 China state dinner: formal table setting and gold candlestick proportions. Perimeter cloth and red color follow the user's requested design, not a reconstruction of an obscured photograph.",
+  "geometry": "Top y13..16; central concealed support; exterior skirts y3..13; 16 connection masks per color.",
+  "wood": [
+    "#452A24",
+    "#503027",
+    "#613B2C",
+    "#39231F"
+  ],
+  "gold": [
+    "#D6AA52",
+    "#F0D28A",
+    "#A77832"
+  ]
+}

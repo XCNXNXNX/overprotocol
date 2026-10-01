@@ -1,0 +1,100 @@
+{
+  "variants": {
+    "cloth=false,east=false,north=false,south=false,west=false": {
+      "model": "overprotocol:block/ceremonial_table_bare"
+    },
+    "cloth=false,east=false,north=false,south=false,west=true": {
+      "model": "overprotocol:block/ceremonial_table_bare"
+    },
+    "cloth=false,east=false,north=false,south=true,west=false": {
+      "model": "overprotocol:block/ceremonial_table_bare"
+    },
+    "cloth=false,east=false,north=false,south=true,west=true": {
+      "model": "overprotocol:block/ceremonial_table_bare"
+    },
+    "cloth=false,east=false,north=true,south=false,west=false": {
+      "model": "overprotocol:block/ceremonial_table_bare"
+    },
+    "cloth=false,east=false,north=true,south=false,west=true": {
+      "model": "overprotocol:block/ceremonial_table_bare"
+    },
+    "cloth=false,east=false,north=true,south=true,west=false": {
+      "model": "overprotocol:block/ceremonial_table_bare"
+    },
+    "cloth=false,east=false,north=true,south=true,west=true": {
+      "model": "overprotocol:block/ceremonial_table_bare"
+    },
+    "cloth=false,east=true,north=false,south=false,west=false": {
+      "model": "overprotocol:block/ceremonial_table_bare"
+    },
+    "cloth=false,east=true,north=false,south=false,west=true": {
+      "model": "overprotocol:block/ceremonial_table_bare"
+    },
+    "cloth=false,east=true,north=false,south=true,west=false": {
+      "model": "overprotocol:block/ceremonial_table_bare"
+    },
+    "cloth=false,east=true,north=false,south=true,west=true": {
+      "model": "overprotocol:block/ceremonial_table_bare"
+    },
+    "cloth=false,east=true,north=true,south=false,west=false": {
+      "model": "overprotocol:block/ceremonial_table_bare"
+    },
+    "cloth=false,east=true,north=true,south=false,west=true": {
+      "model": "overprotocol:block/ceremonial_table_bare"
+    },
+    "cloth=false,east=true,north=true,south=true,west=false": {
+      "model": "overprotocol:block/ceremonial_table_bare"
+    },
+    "cloth=false,east=true,north=true,south=true,west=true": {
+      "model": "overprotocol:block/ceremonial_table_bare"
+    },
+    "cloth=true,east=false,north=false,south=false,west=false": {
+      "model": "overprotocol:block/cyan_ceremonial_table_0"
+    },
+    "cloth=true,east=false,north=false,south=false,west=true": {
+      "model": "overprotocol:block/cyan_ceremonial_table_8"
+    },
+    "cloth=true,east=false,north=false,south=true,west=false": {
+      "model": "overprotocol:block/cyan_ceremonial_table_4"
+    },
+    "cloth=true,east=false,north=false,south=true,west=true": {
+      "model": "overprotocol:block/cyan_ceremonial_table_12"
+    },
+    "cloth=true,east=false,north=true,south=false,west=false": {
+      "model": "overprotocol:block/cyan_ceremonial_table_1"
+    },
+    "cloth=true,east=false,north=true,south=false,west=true": {
+      "model": "overprotocol:block/cyan_ceremonial_table_9"
+    },
+    "cloth=true,east=false,north=true,south=true,west=false": {
+      "model": "overprotocol:block/cyan_ceremonial_table_5"
+    },
+    "cloth=true,east=false,north=true,south=true,west=true": {
+      "model": "overprotocol:block/cyan_ceremonial_table_13"
+    },
+    "cloth=true,east=true,north=false,south=false,west=false": {
+      "model": "overprotocol:block/cyan_ceremonial_table_2"
+    },
+    "cloth=true,east=true,north=false,south=false,west=true": {
+      "model": "overprotocol:block/cyan_ceremonial_table_10"
+    },
+    "cloth=true,east=true,north=false,south=true,west=false": {
+      "model": "overprotocol:block/cyan_ceremonial_table_6"
+    },
+    "cloth=true,east=true,north=false,south=true,west=true": {
+      "model": "overprotocol:block/cyan_ceremonial_table_14"
+    },
+    "cloth=true,east=true,north=true,south=false,west=false": {
+      "model": "overprotocol:block/cyan_ceremonial_table_3"
+    },
+    "cloth=true,east=true,north=true,south=false,west=true": {
+      "model": "overprotocol:block/cyan_ceremonial_table_11"
+    },
+    "cloth=true,east=true,north=true,south=true,west=false": {
+      "model": "overprotocol:block/cyan_ceremonial_table_7"
+    },
+    "cloth=true,east=true,north=true,south=true,west=true": {
+      "model": "overprotocol:block/cyan_ceremonial_table_15"
+    }
+  }
+}

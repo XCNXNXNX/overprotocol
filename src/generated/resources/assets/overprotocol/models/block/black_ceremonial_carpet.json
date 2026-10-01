@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/carpet",
+  "textures": {
+    "wool": "overprotocol:block/black_ceremonial_carpet"
+  }
+}

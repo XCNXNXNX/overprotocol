@@ -1,0 +1,100 @@
+{
+  "variants": {
+    "facing=east,half=lower,pose=attention": {
+      "model": "overprotocol:block/honor_guard"
+    },
+    "facing=east,half=lower,pose=present": {
+      "model": "overprotocol:block/honor_guard"
+    },
+    "facing=east,half=lower,pose=raise": {
+      "model": "overprotocol:block/honor_guard"
+    },
+    "facing=east,half=lower,pose=salute": {
+      "model": "overprotocol:block/honor_guard"
+    },
+    "facing=east,half=upper,pose=attention": {
+      "model": "overprotocol:block/honor_guard"
+    },
+    "facing=east,half=upper,pose=present": {
+      "model": "overprotocol:block/honor_guard"
+    },
+    "facing=east,half=upper,pose=raise": {
+      "model": "overprotocol:block/honor_guard"
+    },
+    "facing=east,half=upper,pose=salute": {
+      "model": "overprotocol:block/honor_guard"
+    },
+    "facing=north,half=lower,pose=attention": {
+      "model": "overprotocol:block/honor_guard"
+    },
+    "facing=north,half=lower,pose=present": {
+      "model": "overprotocol:block/honor_guard"
+    },
+    "facing=north,half=lower,pose=raise": {
+      "model": "overprotocol:block/honor_guard"
+    },
+    "facing=north,half=lower,pose=salute": {
+      "model": "overprotocol:block/honor_guard"
+    },
+    "facing=north,half=upper,pose=attention": {
+      "model": "overprotocol:block/honor_guard"
+    },
+    "facing=north,half=upper,pose=present": {
+      "model": "overprotocol:block/honor_guard"
+    },
+    "facing=north,half=upper,pose=raise": {
+      "model": "overprotocol:block/honor_guard"
+    },
+    "facing=north,half=upper,pose=salute": {
+      "model": "overprotocol:block/honor_guard"
+    },
+    "facing=south,half=lower,pose=attention": {
+      "model": "overprotocol:block/honor_guard"
+    },
+    "facing=south,half=lower,pose=present": {
+      "model": "overprotocol:block/honor_guard"
+    },
+    "facing=south,half=lower,pose=raise": {
+      "model": "overprotocol:block/honor_guard"
+    },
+    "facing=south,half=lower,pose=salute": {
+      "model": "overprotocol:block/honor_guard"
+    },
+    "facing=south,half=upper,pose=attention": {
+      "model": "overprotocol:block/honor_guard"
+    },
+    "facing=south,half=upper,pose=present": {
+      "model": "overprotocol:block/honor_guard"
+    },
+    "facing=south,half=upper,pose=raise": {
+      "model": "overprotocol:block/honor_guard"
+    },
+    "facing=south,half=upper,pose=salute": {
+      "model": "overprotocol:block/honor_guard"
+    },
+    "facing=west,half=lower,pose=attention": {
+      "model": "overprotocol:block/honor_guard"
+    },
+    "facing=west,half=lower,pose=present": {
+      "model": "overprotocol:block/honor_guard"
+    },
+    "facing=west,half=lower,pose=raise": {
+      "model": "overprotocol:block/honor_guard"
+    },
+    "facing=west,half=lower,pose=salute": {
+      "model": "overprotocol:block/honor_guard"
+    },
+    "facing=west,half=upper,pose=attention": {
+      "model": "overprotocol:block/honor_guard"
+    },
+    "facing=west,half=upper,pose=present": {
+      "model": "overprotocol:block/honor_guard"
+    },
+    "facing=west,half=upper,pose=raise": {
+      "model": "overprotocol:block/honor_guard"
+    },
+    "facing=west,half=upper,pose=salute": {
+      "model": "overprotocol:block/honor_guard"
+    }
+  }
+}

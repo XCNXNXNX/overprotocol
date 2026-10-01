@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "lit=false": {
+      "model": "overprotocol:block/welcome_lamp_off"
+    },
+    "lit=true": {
+      "model": "overprotocol:block/welcome_lamp_on"
+    }
+  }
+}

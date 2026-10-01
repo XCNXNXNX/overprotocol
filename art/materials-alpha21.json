@@ -1,0 +1,40 @@
+{
+  "mode": "built-in image_gen",
+  "date": "2026-09-30",
+  "runtime_size": [
+    64,
+    64
+  ],
+  "assets": [
+    {
+      "name": "linen",
+      "prompt": "Use case: stylized-concept. Asset type: seamless square game material texture, pure flat orthographic material scan, for Minecraft ceremonial tablecloth. Create soft ivory-white fine woven linen with very subtle interlaced thread grain, tasteful realistic fabric, completely uniform diffuse lighting and mostly near-white values, no wrinkles, no border, no objects, no shadows, no text, no perspective. Seamless across all edges; readable when reduced to 64x64, avoid strong noise. This image is a material surface, not a scene.",
+      "project_source": "art/material-sources/linen.png",
+      "runtime": "src/main/resources/assets/overprotocol/textures/block/table_linen.png"
+    },
+    {
+      "name": "pleats",
+      "prompt": "Use case: stylized-concept. Asset type: square tiling game material texture for a hanging tablecloth skirt. Create white fine woven satin/linen with four elegant vertical soft pleats across the width, broad shallow smoothly shaded folds, all folds run from top edge through bottom edge, very subtle fine fabric grain. Predominantly ivory-white, low contrast, no decorative symbols, no border or hem, no objects, no text, no perspective. Repeatable horizontally and vertically. Flat texture image, not a cloth object or a room, readable reduced to 64x64.",
+      "project_source": "art/material-sources/pleats.png",
+      "runtime": "src/main/resources/assets/overprotocol/textures/block/table_pleats.png"
+    },
+    {
+      "name": "gold",
+      "prompt": "Use case: stylized-concept. Asset type: seamless square Minecraft game material texture for polished gold candle holders and barrier posts. Smooth warm solid gold metal, clean machined surface, a broad very gentle golden sheen with a tiny pale-gold highlight, yellow-gold not copper, low-frequency restrained shading. Elegant refined finish comparable to a polished gold ingot. No nuggets, no grain, no scratches, no noise speckles, no bevelled block border, no seams, no objects, no text, no perspective. Seamless texture material scan with flat orthographic presentation; will be reduced to 64x64.",
+      "project_source": "art/material-sources/gold.png",
+      "runtime": "src/main/resources/assets/overprotocol/textures/block/table_gold.png"
+    },
+    {
+      "name": "wood",
+      "prompt": "Use case: stylized-concept. Asset type: seamless square Minecraft game texture for formal dining table wooden pedestal. Rich warm dark walnut timber, refined subtly varnished surface, fine natural longitudinal grain, gently varied warm brown tones without extreme contrast. Realistic elegant wood, fine grain readable reduced to 64x64; no planks or board seams, no knots, no border, no objects, no perspective, no text, no harsh reflections. Flat material texture scan with neutral diffuse light, tileable in both directions.",
+      "project_source": "art/material-sources/wood.png",
+      "runtime": "src/main/resources/assets/overprotocol/textures/block/table_wood.png"
+    },
+    {
+      "name": "velvet",
+      "prompt": "Use case: stylized-concept. Asset type: seamless square Minecraft game material texture for a pure red velvet ceremonial carpet and its rolled-up cloth. Deep rich ceremonial crimson red, soft plush velvet pile, subtle fine textile nap and restrained tonal variation, elegant smooth velvety finish, perfectly flat orthographic material scan with uniform diffuse lighting. No gold, no symbols, no border, no folds, no woven checks, no objects, no perspective, no text, no watermark. Seamless on every edge. Fine grain should still look good reduced to 64x64, avoid mottled noisy speckles.",
+      "project_source": "art/material-sources/velvet.png",
+      "runtime": "src/main/resources/assets/overprotocol/textures/block/red_velvet.png"
+    }
+  ]
+}

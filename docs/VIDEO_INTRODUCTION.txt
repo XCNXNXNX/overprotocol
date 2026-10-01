@@ -1,0 +1,40 @@
+从一条红毯开始，一不小心把 B-2 也造出来了。
+It started with a red carpet. Somehow, we ended up building a B-2.
+
+这是我的 Minecraft Mod「顶格礼遇 / Overprotocol」：16 色地毯、可铺可卷的 30 米红毯、拼接长桌、礼宾椅、烛台与金色栏杆，还有可以换上自己的皮肤、手持 TaCZ 枪械的仪仗队雕像。最后，当然还有按真实比例制作、可以驾驶的 B-2 轰炸机。
+
+This is Overprotocol, my Minecraft mod: carpets in all 16 colors, a 30-meter red carpet you can unroll and roll back up, connecting tables, ceremonial chairs, candle holders, and golden railings. Honor guard statues can wear your own skin and hold TaCZ guns. And yes, there is a life-size B-2 Spirit that you can actually fly.
+
+我提出想法、参与创意与场景制作，并负责游戏测试和实机录制，与几位 AI 一起把想法做成了这个 Mod。
+I proposed the idea, contributed to the creative direction and scene building, and handled in-game testing and recording. Together with several AI models, we turned it into a playable mod.
+
+【制作分工 / Credits】
+创意 / Concept：XCNXNXNX、DeepSeekV4.1Flash、GPT-6Astra
+桌子、椅子、烛台 / Tables, chairs and candle holders：GPT-6Astra、GPT-6.1Sol
+雕像、栏杆 / Statues and railings：DeepSeekV4.1Flash
+B-2：GPT-6Astra
+场景 / Scene building：XCNXNXNX、DeepSeekV4.1Flash
+视频制作 / Video production：XCNXNXNX、GPT-6Astra、GPT-6.1Sol
+游戏测试与实机录制 / In-game testing and recording：XCNXNXNX
+
+【最终使用 / Final Setup】
+游戏 / Game：Minecraft Java 1.21.1 / NeoForge 21.1.236
+启动器 / Launcher：PCL2
+展示版本 / Mod version：Overprotocol 0.1.0-alpha.26
+光影 / Shaders：Bliss v2.1.2 (Chocapic13 Shaders edit)，Iris + Sodium
+超远视距 / Extended draw distance：Distant Horizons
+枪械展示 / Guns：TaCZ
+配方查看 / Recipe viewer：JEI
+录屏 / Recording：OBS Studio 32.2.2
+剪辑、字幕、转场与配乐合成 / Editing, subtitles, transitions and music mixing：Python + FFmpeg / libass
+音乐 / Music：Terror Jr — 3 Strikes (8D version)
+视频规格 / Video format：1080p / 60 fps
+
+【项目仓库 / Repositories】
+顶格礼遇完整模组 / Complete Overprotocol mod：
+https://github.com/XCNXNXNX/overprotocol
+B-2 独立模组 / Standalone B-2 mod：
+https://github.com/XCNXNXNX/b2-spirit
+
+XCNXNXNX、GPT-6Astra、GPT-6.1Sol、DeepSeekV4.1Flash，祝大家国庆节快乐！
+Happy Chinese National Day from XCNXNXNX, GPT-6Astra, GPT-6.1Sol, and DeepSeekV4.1Flash!

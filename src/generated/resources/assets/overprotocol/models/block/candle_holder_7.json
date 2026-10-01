@@ -1,0 +1,256 @@
+{
+  "parent": "minecraft:block/block",
+  "elements": [
+    {
+      "faces": {
+        "down": {
+          "texture": "#gold"
+        },
+        "east": {
+          "texture": "#gold"
+        },
+        "north": {
+          "texture": "#gold"
+        },
+        "south": {
+          "texture": "#gold"
+        },
+        "up": {
+          "texture": "#gold"
+        },
+        "west": {
+          "texture": "#gold"
+        }
+      },
+      "from": [
+        4,
+        0,
+        4
+      ],
+      "to": [
+        12,
+        2,
+        12
+      ]
+    },
+    {
+      "faces": {
+        "down": {
+          "texture": "#gold"
+        },
+        "east": {
+          "texture": "#gold"
+        },
+        "north": {
+          "texture": "#gold"
+        },
+        "south": {
+          "texture": "#gold"
+        },
+        "up": {
+          "texture": "#gold"
+        },
+        "west": {
+          "texture": "#gold"
+        }
+      },
+      "from": [
+        7,
+        2,
+        7
+      ],
+      "to": [
+        9,
+        8,
+        9
+      ]
+    },
+    {
+      "faces": {
+        "down": {
+          "texture": "#gold"
+        },
+        "east": {
+          "texture": "#gold"
+        },
+        "north": {
+          "texture": "#gold"
+        },
+        "south": {
+          "texture": "#gold"
+        },
+        "up": {
+          "texture": "#gold"
+        },
+        "west": {
+          "texture": "#gold"
+        }
+      },
+      "from": [
+        5,
+        8,
+        5
+      ],
+      "to": [
+        11,
+        10,
+        11
+      ]
+    },
+    {
+      "faces": {
+        "down": {
+          "texture": "#candle",
+          "uv": [
+            0.0,
+            14.0,
+            2.0,
+            16.0
+          ]
+        },
+        "east": {
+          "texture": "#candle",
+          "uv": [
+            0.0,
+            8.0,
+            2.0,
+            14.0
+          ]
+        },
+        "north": {
+          "texture": "#candle",
+          "uv": [
+            0.0,
+            8.0,
+            2.0,
+            14.0
+          ]
+        },
+        "south": {
+          "texture": "#candle",
+          "uv": [
+            0.0,
+            8.0,
+            2.0,
+            14.0
+          ]
+        },
+        "up": {
+          "texture": "#candle",
+          "uv": [
+            0.0,
+            6.0,
+            2.0,
+            8.0
+          ]
+        },
+        "west": {
+          "texture": "#candle",
+          "uv": [
+            0.0,
+            8.0,
+            2.0,
+            14.0
+          ]
+        }
+      },
+      "from": [
+        7,
+        10,
+        7
+      ],
+      "to": [
+        9,
+        16,
+        9
+      ]
+    },
+    {
+      "faces": {
+        "north": {
+          "texture": "#candle",
+          "uv": [
+            0.0,
+            5.0,
+            1.0,
+            6.0
+          ]
+        },
+        "south": {
+          "texture": "#candle",
+          "uv": [
+            0.0,
+            5.0,
+            1.0,
+            6.0
+          ]
+        }
+      },
+      "from": [
+        7.5,
+        16,
+        8
+      ],
+      "rotation": {
+        "angle": -45.0,
+        "axis": "y",
+        "origin": [
+          8,
+          16,
+          8
+        ]
+      },
+      "to": [
+        8.5,
+        17,
+        8
+      ]
+    },
+    {
+      "faces": {
+        "north": {
+          "texture": "#candle",
+          "uv": [
+            0.0,
+            5.0,
+            1.0,
+            6.0
+          ]
+        },
+        "south": {
+          "texture": "#candle",
+          "uv": [
+            0.0,
+            5.0,
+            1.0,
+            6.0
+          ]
+        }
+      },
+      "from": [
+        7.5,
+        16,
+        8
+      ],
+      "rotation": {
+        "angle": 45.0,
+        "axis": "y",
+        "origin": [
+          8,
+          16,
+          8
+        ]
+      },
+      "to": [
+        8.5,
+        17,
+        8
+      ]
+    }
+  ],
+  "textures": {
+    "candle": "minecraft:block/lime_candle",
+    "gold": "overprotocol:block/table_gold",
+    "particle": "overprotocol:block/table_gold"
+  }
+}
