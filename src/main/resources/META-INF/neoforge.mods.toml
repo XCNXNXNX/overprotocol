@@ -6,6 +6,7 @@ license="MIT"
 modId="${mod_id}"
 version="${mod_version}"
 displayName="${mod_name}"
+logoFile="logo.png"
 description='''
 Ceremonial decorations for grand welcomes.
 Sixteen-color ceremonial carpets, four-way tablecloth tables, golden candle holders for vanilla

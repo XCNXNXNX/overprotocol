@@ -1,5 +1,7 @@
 # 顶格礼遇 / Overprotocol
 
+<img src="art/branding/overprotocol-icon.png" alt="Overprotocol icon: red carpet, golden barriers, and a B-2 flying wing" width="256">
+
 **Minecraft Java 1.21.1 · NeoForge · Java 21**
 
 从一条红毯开始，一不小心把 B-2 也造出来了。
