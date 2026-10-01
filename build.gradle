@@ -55,7 +55,12 @@ neoForge {
     }
 }
 
-dependencyLocking { lockAllConfigurations() }
+dependencyLocking {
+    lockAllConfigurations()
+    // Minecraft selects the native epoll transport by OS. Its version is fixed
+    // by Minecraft's library manifest, but its presence differs on Windows/Linux.
+    ignoredDependencies.add('io.netty:netty-transport-native-epoll')
+}
 
 tasks.withType(JavaCompile).configureEach { options.encoding = 'UTF-8' }
 tasks.withType(AbstractArchiveTask).configureEach {
