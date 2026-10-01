@@ -1,9 +1,0 @@
-Use case: logo-brand.
-Asset type: a single square Minecraft mod icon for 顶格礼遇 / Overprotocol, intended for a mod listing and the Minecraft Mods menu. Produce a polished finished icon, 1024x1024, not a contact sheet.
-Primary request: an elegant, memorable Minecraft-inspired ceremonial emblem. In a compact isometric voxel diorama, a rich crimson red carpet unrolls toward a grand welcome. The carpet and its clearly visible curled roll form the dominant central shape. Two pairs of smooth polished golden stanchions with restrained red ropes flank the carpet. Above the far end hovers one recognizable B-2 Spirit flying-wing aircraft, neutral charcoal with a subtle silver rim light. Show the B-2's broad swept flying wing, central nose, unique stepped/sawtooth trailing edge, and no vertical tail; preserve its unmistakable wide proportions.
-Style: refined 3D voxel/block illustration with crisp edges and simple bold forms, Minecraft compatible visual language, restrained premium lighting. A designed game icon, not a photograph or a realistic poster. The aircraft silhouette can have clean angular facets. Smooth gold, deep red velvet, dark neutral plane.
-Composition: centered balanced emblem filling about 85% of the square, modest safe margin, carpet in lower half and aircraft in upper half, simple dark midnight blue backdrop with a very subtle warm central glow. Strong readable red/gold/charcoal contrast. Distinct silhouettes that remain clear at 64 pixels. No surrounding landscape, no buildings, no extra props or people.
-Constraints: no text, no letters, no words, no watermark, no flags, no badges, no UI, no outer decorative frame. A single cohesive image. Square opaque background.
-
-Generated with the built-in image_gen tool on 2026-10-01.
-Source: overprotocol-icon.png, 1254 x 1254 pixels.
